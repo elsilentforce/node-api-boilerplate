@@ -12,12 +12,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "morgan": "^1.9.1",
-    "pg": "^7.9.0",
-    "sequelize": "^5.1.0"
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10",
-    "sequelize-cli": "^5.4.0"
+    "nodemon": "^1.18.10"
   }
 }
